@@ -18,6 +18,7 @@ It improves performance of RNN networks.
 
 The existing problem with RNN network architecture is that the decoder needs to represent the entire input sentence as a single vector. This can cause information loss. Moreover, the decoder need to decipher the passed information from this single vector which is a complex task in itself.
 
+https://www.tensorflow.org/images/seq2seq/attention_mechanism.jpg
 
 "A potential issue with this encoder–decoder approach is that a neural network needs to be able to compress all the necessary information of a source sentence into a fixed-length vector. This may make it difficult for the neural network to cope with long sentences, especially those that are longer than the sentences in the training corpus."
 
