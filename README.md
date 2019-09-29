@@ -28,3 +28,4 @@ https://www.tensorflow.org/images/seq2seq/attention_mechanism.jpg
 
 
 For deeper understanding of Attention mechanism, you can visit : https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05
+You can also refer : https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
